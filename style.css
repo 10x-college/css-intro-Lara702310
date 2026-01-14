@@ -240,12 +240,14 @@ header {
 }
 
 .cont-list {
-
+    display: inline-block;
+    width: 165px;
+    height: 45px;
     text-align: left;
     font-weight: 400;
     font-size: 14px;
     color: #bdbdbd;
-    line-height: 1.2;
+    line-height: 1.6;
 
 }
 
@@ -258,6 +260,9 @@ header {
 }
 
 .category-list {
+    display: inline-block;
+    width: 181px;
+    height: 101px;
     font-size: 14px;
     color: #bdbdbd;
     line-height: 1.6;
